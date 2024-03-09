@@ -1,5 +1,4 @@
-# Data-Analysis
-Data Analysis Project:
+Data Analysis Project 1 :
 
 In this Project, I have analysed the Vehicle Accident Data with help of SQL Server Management Tool and SQL Queries. Where I have taken below requirements and prepared the solutions with sql queries to make appropriate decisions to reduce the accidents,   
 
